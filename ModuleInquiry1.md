@@ -1,4 +1,4 @@
-﻿ModuleInquiry1:
+
 ### 1. (For full-time only) What questions did you ask your stakeholder that helped in breaking down your tasks?  
 Are there any stretch goals which you would be interested in, but afraid to ask? 
 ### 2. What user stories did you draw from to create your product roadmap? List them below.
@@ -20,4 +20,3 @@ I would try to understand first of all where a potential hang-up would occur so 
 
 
 
-> Written with [StackEdit](https://stackedit.io/).
